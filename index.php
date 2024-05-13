@@ -1,3 +1,3 @@
 <?php
-echo "Deploying PHP web application using CICD pipeline.";
+echo "Deploying PHP web application using CICD pipeline version2.";
 ?>
